@@ -1,9 +1,4 @@
 # 🌍 Healthcare Analytics – Life Expectancy
-> **Data Visualization Technique Lab** | **Roll No:** `231401025`
-
----
-
-## 📌 Metadata Overview
 
 | Field | Information |
 | :--- | :--- |
